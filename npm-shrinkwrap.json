@@ -75,8 +75,8 @@
       "resolved": "https://registry.npmjs.org/@types/react-icons/-/react-icons-2.2.6.tgz"
     },
     "@types/react-jsonschema-form": {
-      "version": "1.0.11",
-      "resolved": "https://registry.npmjs.org/@types/react-jsonschema-form/-/react-jsonschema-form-1.0.11.tgz"
+      "version": "1.0.12",
+      "resolved": "https://registry.npmjs.org/@types/react-jsonschema-form/-/react-jsonschema-form-1.0.12.tgz"
     },
     "@types/recompose": {
       "version": "0.26.5",
